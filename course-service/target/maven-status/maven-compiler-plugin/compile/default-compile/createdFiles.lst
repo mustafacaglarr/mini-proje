@@ -1,0 +1,6 @@
+com\demo\courseservice\CourseServiceApplication.class
+com\demo\courseservice\controller\CourseController.class
+com\demo\courseservice\repository\CourseRepository.class
+com\demo\courseservice\model\Course.class
+com\demo\courseservice\repository\EnrollmentRepository.class
+com\demo\courseservice\service\PaymentClient.class
